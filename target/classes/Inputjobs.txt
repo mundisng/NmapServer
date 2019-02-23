@@ -1,0 +1,17 @@
+-v -A scanme.nmap.org, false,0
+
+-v -oX - scanme.nmap.org, true,10
+
+-oX - scanme.nmap.org, tr ue , 5
+
+-v -A scanme.nmap.org, fa lse,0
+
+scanme.nmap.org,true,7
+
+-v -A scanme.nmap.org,false,0
+
+-F scanme.nmap.org,true,15
+
+-A scanme.nmap.org,true,2
+
+-v -A scanme.nmap.org,false,0
